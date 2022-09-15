@@ -40,12 +40,12 @@ a {
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* flame */
-    color: #E4572E;
+    background-color: #E4572E; /* flame */
+    color: #2e72a1;
 }
 
 .card {
-    color: black;
+    color: Silver;
     text-align: left;
 }
 
