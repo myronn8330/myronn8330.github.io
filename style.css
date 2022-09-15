@@ -40,8 +40,8 @@ a {
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* Blue */
-    color: #ffffff;
+    background-color: #2e72a1; /* flame */
+    color: #E4572E;
 }
 
 .card {
@@ -54,12 +54,12 @@ a {
 }
 
 .bg-3 {
-    background-color: #000000; /* Black */
-    color: #ffffff;
+    background-color: #000000; /* Gray */
+    color: #4C4C4C;
 }
 
 .bg-4 {
-    background-color: #4451a3; /* Dark Gray */
+    background-color: #000000; /* Black */
     color: #fff;
 }
 
