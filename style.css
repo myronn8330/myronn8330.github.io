@@ -13,7 +13,7 @@ p {
 }
 
 a {
-    color: #2e72a1;
+    color: #23c996;
 }
 
 #logo, .project-img {
@@ -35,17 +35,17 @@ a {
 }
 
 .bg-1 {
-    background-color: #ffffff; /* White */
-    color: #555555;
+    background-color: #000000; /* Black */
+    color: #fff;
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* Blue */
-    color: #ffffff;
+    background-color: #E4572E; /* flame */
+    color: #2e72a1;
 }
 
 .card {
-    color: black;
+    color: Silver;
     text-align: left;
 }
 
@@ -54,12 +54,12 @@ a {
 }
 
 .bg-3 {
-    background-color: #000000; /* Black */
-    color: #ffffff;
+    background-color: #4C4C4C; /* Gray */
+    color: #fff;
 }
 
 .bg-4 {
-    background-color: #343a40; /* Dark Gray */
+    background-color: #000000; /* Black */
     color: #fff;
 }
 
